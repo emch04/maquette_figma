@@ -1,2 +1,0 @@
-﻿# maquette_figma
-https://www.figma.com/design/cLkFyPLdNV1CQkf0LaOwK8/page-de-commandes?node-id=0-1&t=cpvoVqDJ1JSfyQo2-1
